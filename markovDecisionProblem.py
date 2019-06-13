@@ -6,7 +6,6 @@ Created in Fall 2014
 Based on MDP algorithms presented in Martin L. Putterman's
 Markov Decision Processes.
 Coding club was here
-And then it stayed here
 '''
 
 import collections
